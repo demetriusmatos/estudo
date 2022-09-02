@@ -1,5 +1,5 @@
 let slides = document.querySelectorAll('.slide-container');
-let index = 0;
+let index = 1;
 
 function next(){
     slides[index].classList.remove('active');
